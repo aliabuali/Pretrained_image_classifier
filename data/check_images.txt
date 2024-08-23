@@ -21,3 +21,4 @@ Yes
 4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
 
 Answer:
+AlexNet because it is the fastest in time.
